@@ -1,4 +1,8 @@
 # Stalker-Name-Generator
 My magnum opus.
 
-Used with [LinqPAD](https://www.linqpad.net/Download.aspx). Any version will do.
+# XMLReparser
+Parses original staler xml files for names and rewrites it simpler form
+
+# StalkerNameBuilder
+Generates names based of .xml sources
