@@ -1,0 +1,1 @@
+﻿Program for rewriting original stalker xml's for more readable and expandable variant
